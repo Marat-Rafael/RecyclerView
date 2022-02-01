@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="fab_desc">FloatingActionButton para añadir nuevo elemento al final</string>
+</resources>
